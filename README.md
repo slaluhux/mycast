@@ -1,0 +1,2 @@
+# mycast
+my asciinema cast
